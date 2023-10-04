@@ -53,8 +53,10 @@
 
 # Task 1
 
+![task1](https://github.com/safrizalrahman46/Jobsheet4/assets/80895732/be2c5bee-3239-465f-96bd-96f9c9759f7b)
+
 <!-- <img src="D:\A. DATA DARI DOCUMENT KUMPULAN TUGAS JUGA\ATugasPraktek\JOBSHEET 4\task1.png" alt="TASK 1" /> -->
 
 # Task 2 Modify the Code
-
+![task2](https://github.com/safrizalrahman46/Jobsheet4/assets/80895732/4ebe5498-a2f0-40fa-88c5-302c5c66f501)
 <!-- <img src="D:\A. DATA DARI DOCUMENT KUMPULAN TUGAS JUGA\ATugasPraktek\JOBSHEET 4\task2.png" alt="TASK 1" /> -->
